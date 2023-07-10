@@ -471,7 +471,7 @@
           "class": "area",
           "height": 128,
           "id": 13,
-          "name": "jitsiChillZone",
+          "name": "AreadeDescanso",
           "properties": [
             {
               "name": "focusable",
@@ -481,7 +481,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "ChillZone"
+              "value": "AreadeDescanso"
             },
             {
               "name": "jitsiTrigger",
