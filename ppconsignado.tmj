@@ -80,7 +80,7 @@
          "width":60,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -159,7 +159,7 @@
          "width":60,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
@@ -231,6 +231,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":68,
          "id":4,
+         "locked":true,
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
@@ -238,7 +239,7 @@
          "width":60,
          "x":0,
          "y":0
-        }, 
+        },
         {
          "draworder":"topdown",
          "id":3,
@@ -253,29 +254,29 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Sala de reuniao - 1"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
+                        },
                         {
                          "name":"zoom_margin",
                          "type":"string",
                          "value":"2,0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":235.198830409357,
                  "x":16.923558897243,
                  "y":636.46574770259
-                }, 
+                },
                 {
                  "height":268.629072681704,
                  "id":2,
@@ -285,29 +286,29 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Area de descanso"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
+                        },
                         {
                          "name":"zoom_margin",
                          "type":"string",
                          "value":"2,0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":358.814536340852,
                  "x":58.7347535505431,
                  "y":122.00626566416
-                }, 
+                },
                 {
                  "height":317.711779448622,
                  "id":3,
@@ -317,29 +318,29 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Sala de reuniao - 2"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
+                        },
                         {
                          "name":"zoom_margin",
                          "type":"string",
                          "value":"2,0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":237.016708437761,
                  "x":16.9235588972431,
                  "y":1318.17000835422
-                }, 
+                },
                 {
                  "height":123.198830409357,
                  "id":4,
@@ -349,29 +350,29 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Sala de reuniao - 5"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
+                        },
                         {
                          "name":"zoom_margin",
                          "type":"string",
                          "value":"2,0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":238.834586466165,
                  "x":1667.55680868839,
                  "y":1161.83249791145
-                }, 
+                },
                 {
                  "height":172.281537176274,
                  "id":5,
@@ -381,29 +382,29 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Sala de reuniao - 4"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
+                        },
                         {
                          "name":"zoom_margin",
                          "type":"string",
                          "value":"2,0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":195.205513784461,
                  "x":1036.75313283208,
                  "y":1163.65037593985
-                }, 
+                },
                 {
                  "height":172.282,
                  "id":6,
@@ -413,24 +414,24 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
+                        },
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Sala de reuniao - 3"
-                        }, 
+                        },
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
+                        },
                         {
                          "name":"zoom_margin",
                          "type":"string",
                          "value":"2,0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":195.206,
                  "x":611.369431077694,
@@ -445,6 +446,32 @@
  "nextlayerid":5,
  "nextobjectid":7,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"PP Consignado - By GrowLight"
+        },
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Mapa do PP consignado para reuni\u00f5es e encontros do dia a dia de trabalho"
+        },
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"PicPay-Consignado-Tiled.png"
+        },
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"PP Consignado"
+        },
+        {
+         "name":"script",
+         "type":"string",
+         "value":"src\/main.ts"
+        }],
  "renderorder":"left-down",
  "tiledversion":"1.10.1",
  "tileheight":32,
