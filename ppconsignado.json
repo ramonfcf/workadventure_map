@@ -743,7 +743,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "Sala de reuniao - 1"
+              "value": "SalaReuniao1"
             },
             {
               "name": "jitsiTrigger",
@@ -776,7 +776,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "Area de descanso"
+              "value": "AreaDeDescanso"
             },
             {
               "name": "jitsiTrigger",
@@ -809,7 +809,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "Sala de reuniao - 2"
+              "value": "SalaReuniao2"
             },
             {
               "name": "jitsiTrigger",
@@ -842,7 +842,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "Sala de reuniao - 5"
+              "value": "SalaReuniao5"
             },
             {
               "name": "jitsiTrigger",
@@ -875,7 +875,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "Sala de reuniao - 4"
+              "value": "SalaReuniao4"
             },
             {
               "name": "jitsiTrigger",
@@ -908,7 +908,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "Sala de reuniao - 3"
+              "value": "SalaReuniao3"
             },
             {
               "name": "jitsiTrigger",
