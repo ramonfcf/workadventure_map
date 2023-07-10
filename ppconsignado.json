@@ -959,11 +959,6 @@
       "name": "mapName",
       "type": "string",
       "value": "PP Consignado"
-    },
-    {
-      "name": "script",
-      "type": "string",
-      "value": "src/main.ts"
     }
   ],
   "renderorder": "left-down",
